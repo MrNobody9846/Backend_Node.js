@@ -1,0 +1,5 @@
+javascript
+
+- it is a weakly typed programming language
+- object oriented language
+- versatile language

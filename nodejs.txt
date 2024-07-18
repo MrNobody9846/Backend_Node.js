@@ -1,0 +1,12 @@
+What is node.js?
+
+Node.js => javascript runtime
+Allows javascript to run on any machine .
+
+Nodejs uses V8 engine. V8 is written in c++ . V8 compiles javascript to machine code. Nodejs even adds more features too .
+
+=> use it for server side code
+=> use it to run a server  (create server and listen to requests)
+=> used fr business logic 
+=> turn responses
+
